@@ -1,0 +1,2 @@
+C:/Users/SenacHub-Sala203/Downloads/app_santander_alunos/android/app/.cxx/Debug/h4o2m4u5/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/SenacHub-Sala203/Downloads/app_santander_alunos/android/app/.cxx/Debug/h4o2m4u5/x86_64/CMakeFiles/rebuild_cache.dir
